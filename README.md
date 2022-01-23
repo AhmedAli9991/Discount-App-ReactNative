@@ -1,11 +1,35 @@
-# Sample Snack app
+# Discount App
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+### what i learned
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+- UseState Hook
+- ReactNative concepts
+- Mobile development
+- Devinding app into Componets
+- Stack Navigator 
+- Conditional rendering
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+### About the Project
+The project is a simple Discount calculator app it hides save button when either one of the inputs are empty it is made by using use State hook in react it stores the result and will display them in history when user navigates there it allows delete as well 
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+### Features
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+- Discount Calculation
+- Saving the Input and Output
+- Displaing it in History
+- Deleting the Outputs
+
+##### for live demonstration
+snack link : https://snack.expo.dev/@ahmed12367/lonely-pizza
+
+
+![d1](https://user-images.githubusercontent.com/93770002/150682796-62acb78d-85fc-49aa-87dc-7901920b14ec.PNG)
+
+
+![d2](https://user-images.githubusercontent.com/93770002/150682798-6a5ff5bb-5bc0-480b-bbd2-decda4ddb38b.PNG)
+
+
+![d3](https://user-images.githubusercontent.com/93770002/150682794-db9ac077-c027-45c2-ac8a-0436435a03b8.PNG)
+
+
+### End
